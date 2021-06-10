@@ -1,6 +1,6 @@
 # Controlling auto-instrumentation via terminal distributed context
 
-**Status**: `proposed`
+**Status**: `none`
 
 ## TL;DR
 
